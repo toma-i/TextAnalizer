@@ -1,0 +1,8 @@
+//
+// Created by Ivan on 04/02/2018.
+//
+
+#ifndef CPPPROJECTS_EXCEPTIONS_H
+#define CPPPROJECTS_EXCEPTIONS_H
+
+#endif //CPPPROJECTS_EXCEPTIONS_H
